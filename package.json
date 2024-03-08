@@ -1,0 +1,22 @@
+{
+  "name": "sum-dangtthuynhi",
+  "version": "1.0.0",
+  "description": "A library helps you calculate the sum of any two numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangtthuynhi/sum-dangtthuynhi.git"
+  },
+  "keywords": [
+    "sum-dangtthuynhi"
+  ],
+  "author": "dangtthuynhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangtthuynhi/sum-dangtthuynhi/issues"
+  },
+  "homepage": "https://github.com/dangtthuynhi/sum-dangtthuynhi#readme"
+}
