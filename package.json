@@ -1,6 +1,6 @@
 {
   "name": "sum-dangtthuynhi",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A library helps you calculate the sum of any two numbers.",
   "main": "index.js",
   "scripts": {
