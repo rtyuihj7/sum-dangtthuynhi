@@ -1,10 +1,6 @@
-/* Dependencies */
 
-const areObjects = require('are-objects');
-const areArrays = require('are-arrays');
-
-function sum(a, b, c) {
-    return a + b + c;
+function sumIntegers(...args) {
+    return args.reduce((acc, val) => acc + (Number.isInteger(val) ? val : 0), 0);
 }
 
-exports.sum = sum;
+exports.sumIntegers = sumIntegers;
